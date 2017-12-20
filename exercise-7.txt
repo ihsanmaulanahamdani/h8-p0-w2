@@ -1,0 +1,17 @@
+Tugas 1
+ - SIMPAN 'angka pertama'
+ - SIMPAN 'angka kedua'
+ - HITUNG 'hasil kali' dari 'angka pertama' dikali 'angka kedua'
+ - TULISKAN 'hasil kali'
+
+Tugas 2
+ - SIMPAN 'kata'
+ - IF 'kata' sama dengan 'Saya Belajar Javascript!'
+ - TULISKAN 'Pasti Bisa!'
+
+Tugas 3
+ - SIMPAN 'angka'
+ - ULANGI setiap penambahan 1 pada 'deret' dari 1 sampai 'angka'
+ - IF 'deret' habis dibagi 3
+ - TAMPILKAN 'deret'
+  
